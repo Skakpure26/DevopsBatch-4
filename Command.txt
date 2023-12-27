@@ -5,5 +5,7 @@ Git add <File name>
 Git commit
 Git restore
 Git rm --cached
-git log
+Git log
+Git log --oneline
+Git log --oneline --pretty
 
